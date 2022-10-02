@@ -19,11 +19,6 @@ The green dots on my [**GitHub** profile](https://github.com/flyingsonu122?tab=r
 
 <br/>
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://flyingsonu122.github.io/)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://flyingsonu122.github.io/) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=flyingsonu122.visitor-badge)](https://flyingsonu122.github.io/)
-
-
-<br/>
-
 ### 💳 Github Profile Summary Card
 <p align="center">
   <a href="https://flyingsonu122.github.io"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flyingsonu122&theme=vue"/></a>
